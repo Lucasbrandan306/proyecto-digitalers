@@ -1,0 +1,85 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Coiny&display=swap');
+body{
+    font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  background-color: #f2f2f2;
+}
+
+
+
+
+ h1 strong{
+    font-family: "Coiny", system-ui;
+  font-weight: 400;
+  font-size: 2em;
+
+  font-style: normal;
+
+ }
+ .subtitulos-amarrillos{
+  display: inline-block;
+  background-color: #dbf86f;
+ }
+ .colorN{
+  background-color: #000;
+  color: #fff;
+  display: inline-block;
+  font-size: 2em  ;
+ }
+ .logo{
+  width: 240px;
+ }
+
+ nav ul li{
+  list-style-position: inside;
+  list-style: none;
+  font-weight: 700;
+  margin: 5px;
+ }
+
+ ol li {
+  font-weight: 400;
+  list-style-position: inside;
+  line-height: 35px;
+ }
+ .ultimo-items{
+  font-size: 30px;
+  font-weight: 700;
+ }
+ 
+
+.asterisco{
+  color: #a57;
+}
+ 
+.labelForm{
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 30px;
+}
+
+input{
+  width: 535px;
+  height: 35px;
+}
+textarea{
+  width: 535px;
+  height: 175px;
+}
+
+.restablesedor{
+  width: 147px;
+  height: 35px;
+  background-color: #000;
+  color: #fff;
+}
+
+button{
+  width: 232px;
+  height: 35px;
+  color: #fff;
+  background-color: #000;
+  margin-right: 10%;
+
+}
